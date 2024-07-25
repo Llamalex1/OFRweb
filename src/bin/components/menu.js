@@ -6,7 +6,7 @@ import Buttons from "./buttons";
 const Menu = () => {
     return (
         <Row id="menu">
-            <Col sm="1" id="OFRMain"><a href="https://www.youtube.com/channel/UCkmvkzRtXpRmhok2vt4eFWw" target="_blank"><button id="OFRbutton">OFR</button></a></Col>
+            <Col sm="1" id="OFRMain"><a href="https://www.youtube.com/channel/UCkmvkzRtXpRmhok2vt4eFWw" target="_blank" rel="noreferrer"><button id="OFRbutton">OFR</button></a></Col>
             <Buttons/>
         </Row>
       );

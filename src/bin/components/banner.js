@@ -10,7 +10,7 @@ const Banner = () => {
                 <h2 id="bannersectiontext">Oficjalna strona OFR</h2>
             </Col>
             <Col>
-                <a href="https://discord.gg/x94M964Ght" target="_blank"><button id="discordbttn"><img id="discordimg" src={Discord} alt="discord" /></button></a>
+                <a href="https://discord.gg/x94M964Ght" target="_blank" rel="noreferrer"><button id="discordbttn"><img id="discordimg" src={Discord} alt="discord" /></button></a>
             </Col>
         </Row>
         );
