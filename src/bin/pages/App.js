@@ -41,7 +41,6 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <title>OFRWeb - Strona Główna</title>
         <Switch>
           <Route exact path="/" component={Home} />
         </Switch>
