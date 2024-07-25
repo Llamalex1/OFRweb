@@ -1,0 +1,138 @@
+.App{
+  color: white;
+  letter-spacing: 0.5px;
+  font-family: 'diego-01', sans-serif;
+
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+#foreground{
+  width: 100%;
+  height: 60%;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  z-index: -1;
+}
+
+#background{
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  position: absolute;
+  background-size: 10%;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  z-index: -2;
+}
+
+#menu{
+  margin-top: 3.4%;
+
+  background-color: RGB(145, 45, 45);
+  box-shadow: 10px 10px RGB(120, 35, 35);
+}
+
+.banner{
+  display: flex;
+  align-items: center;
+  font-family: 'PixelCraft', sans-serif;
+
+  padding: 0.5%;
+  margin-bottom: 15px;
+
+  background-color: RGB(50,50,50);
+  box-shadow: 10px 10px RGB(30,30,30);
+}
+
+#bannersection{
+  float: left;
+}
+
+#bannersectiontext{
+  margin-top: 1%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  border-radius: 5px;
+}
+
+#section{
+  background-color: RGB(185, 40, 55);
+  box-shadow: 10px 10px RGB(135, 20, 35);
+}
+
+#sectionheader{
+  font-family: 'PixelCraft', sans-serif;
+}
+
+#sectionheader h4{
+  margin: 1%;
+  text-align: center;
+  text-shadow: 0.2px 0.5px black;
+  color: RGB(75, 0, 35);
+}
+
+#aside{
+  font-family: 'PixelCraft', sans-serif;
+  text-align: center;
+  background-color: RGB(38,38,38);
+  box-shadow: 10px 10px RGB(25,25,25);
+}
+
+#Navbar{
+  text-align: right;
+}
+
+button{
+  color: RGB(110, 25, 25);
+  background-color: RGB(210, 60, 60);
+  border: 1px solid RGB(120, 20, 20);
+
+  font-weight: bold;
+  font-family: 'Minecraft', sans-serif;
+  font-size: 40px;
+
+  margin: 15px;
+  box-shadow: 10px 10px RGB(120, 15, 15);
+}
+
+button:hover{
+  background-color: rgb(240, 67, 67);
+  cursor: pointer;
+}
+
+#OFRMain{
+  float: left;
+  margin-right: 8%;
+}
+
+#OFRbutton{
+  color:RGB(125, 0, 15);
+  background-color: crimson;
+  border: 1px solid darkred;
+  box-shadow: 10px 10px RGB(95, 0, 0);
+}
+
+#OFRbutton:hover{
+  color:RGB(190, 50, 65);
+  background-color: RGB(150,20,20);
+}
+
+#discordbttn{
+  float: right;
+  width: 70%;
+  background-color: RGB(30,35,45);
+  border: 1px solid RGB(5,15,15);
+  box-shadow: 10px 10px RGB(15,25,30);
+}
+
+#discordbttn:hover{
+  background-color: RGB(20,25,35);
+}
+
+#discordimg{
+  height: 80px;
+  width: 70px;
+}
