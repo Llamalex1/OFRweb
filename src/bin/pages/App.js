@@ -19,7 +19,7 @@ function Home() {
   return (
     <div id="main">
       <div id='background' style={{ backgroundImage: `url(${Background})` }}>
-        <Col className='d-none d-xl-block'><img id='foreground' src={Frame} /></Col>
+        <Col className='d-none d-xl-block'><img id='foreground' src={Frame} alt=""frame/></Col>
         <Container>
           <Col>
             <Menu />
