@@ -18,7 +18,7 @@ const sectionC= () => {
                 <h5>Wstęp jest całkowicie za darmo, a fundusze z uzbieranych opcjonalnych zakupów rang lub najzwyklejszych donacji jest przekazywana na serwer oraz jego rozwijanie!.</h5>
                 <br />
                 <h4>Jakie modyfikacje?</h4>
-                <h5>Najważniejsze z nich to "Create" i "Farmer's Delight" - obydwie z licznymi dodatkami, również "Eureka!"", "Artifacts", Seria "Better" od YUNG i inne! Cała paczka modów jest dostępna na discord.</h5>
+                <h5>Najważniejsze z nich to "Create" i "Farmer's Delight" - obydwie z licznymi dodatkami, "Artifacts", Seria "Better" od YUNG i inne! Cała paczka modów jest dostępna na discord.</h5>
                 <br />
                 <h4>Co oferuje serwer discord?</h4>
                 <h5>Kontakt z właścicielem, społecznością, moderatorami czy developerami, możliwość uczestniczenia w głosowaniach, wydarzeniach lub bycie zaproszonym na filmiki serwerowe, mamy też discordowy rynek graczy i kanał z mediami!</h5>
