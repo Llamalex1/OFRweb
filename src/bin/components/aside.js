@@ -5,8 +5,11 @@ const asideC = () => {
     return (  
         <Col md="4" h="50" id='aside'>
             <h2>Nasi fundatorzy:</h2>
-            <p>Kreecik3</p>
-            <p>miksonek12</p>
+            <ul>
+                <li>Kreecik3</li>
+                <li>miksonek12</li>
+                <li>Rafal9797</li>
+            </ul>
         </Col>
     );
 }
